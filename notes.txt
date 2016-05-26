@@ -1,0 +1,4 @@
+* debugmail.io
+* validation rules 'on' - anonymous function to determine when the rule should be applied
+* migrations plugin
+* search plugin https://github.com/CakeDC/search/
